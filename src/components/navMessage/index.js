@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./style.css";
 
-class NavMessage extends component {
+class NavMessage extends Component {
 	state = {
 		message: "",
 		animating: false

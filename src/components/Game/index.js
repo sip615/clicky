@@ -4,7 +4,6 @@ import Container from "../Container";
 import Footer from "../Footer";
 import Nav from "../Nav";
 import Header from "../Header";
-import Nav from "../Nav";
 import data from "../../data.json";
 
 class Game extends Component {
@@ -87,3 +86,5 @@ class Game extends Component {
 		);
 	}
 }
+
+export default Game;
