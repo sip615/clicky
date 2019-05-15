@@ -1,5 +1,5 @@
 import React from "react";
-import "./syle.css";
+import "./style.css";
 
 function Header() {
 	return (

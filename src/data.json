@@ -1,52 +1,52 @@
 [
 	{
 		"id": 1,
-		"image": "../public/assets/images/pup1.jpg",
+		"image": "./assets/images/pup1.jpg",
 		"clicked": false
 	},
 	{
 		"id": 2,
-		"image": "../public/assets/images/pup2.jpg",
+		"image": "./assets/images/pup2.jpg",
 		"clicked": false
 	},
 	{
 		"id": 3,
-		"image": "../public/assets/images/pup3.jpg",
+		"image": "./assets/images/pup3.jpg",
 		"clicked": false
 	},
 	{
 		"id": 4,
-		"image": "../public/assets/images/pup4.jpg",
+		"image": "./assets/images/pup4.jpg",
 		"clicked": false
 	},
 	{
 		"id": 5,
-		"image": "../public/assets/images/pup5.jpg",
+		"image": "./assets/images/pup5.jpg",
 		"clicked": false
 	},
 	{
 		"id": 6,
-		"image": "../public/assets/images/pup6.jpg",
+		"image": "./assets/images/pup6.jpg",
 		"clicked": false
 	},
 	{
 		"id": 7,
-		"image": "../public/assets/images/pup7.jpg",
+		"image": "./assets/images/pup7.jpg",
 		"clicked": false
 	},
 	{
 		"id": 8,
-		"image": "../public/assets/images/pup8.jpg",
+		"image": "./assets/images/pup8.jpg",
 		"clicked": false
 	},
 	{
 		"id": 9,
-		"image": "../public/assets/images/pupQuestionMark.jpg",
+		"image": "./assets/images/pupQuestionMark.jpg",
 		"clicked": false
 	},
 	{
 		"id": 10,
-		"image": "../public/assets/images/pup10.jpg",
+		"image": "./assets/images/pup10.jpg",
 		"clicked": false
 	}
 ]
